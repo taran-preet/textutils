@@ -1,0 +1,5 @@
+props are basically used in the components whose values are passed through the app.js file and it gets rendered in the front-End 
+
+state is basically used set something text bydefault in a variale and we want  when the variable changes it is reflected at all the places where state variable is used 
+
+
